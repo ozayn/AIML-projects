@@ -1,0 +1,1 @@
+Performed EDA using NumPy, Pandas, and Seaborn to uncover demand patterns in cuisines and restaurants, and provided business recommendations.

@@ -1,0 +1,1 @@
+Built a predictive model to classify churn behavior using Random Forest, Bagging, Boosting, SMOTE, and hyperparameter tuning.
