@@ -1,1 +1,3 @@
 Analyzed customer attributes and built a decision tree model to predict loan acquisition likelihood and guide marketing strategies.
+
+Please refer to [code/notebook.ipynb](code/notebook.ipynb) to view the code.
