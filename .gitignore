@@ -54,6 +54,11 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# image files
+
+**/*.npy
+
+
 # Translations
 *.mo
 *.pot
