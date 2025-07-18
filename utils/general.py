@@ -25,3 +25,9 @@ def create_requirements_with_versions(req_name_orig="requirements0.txt",
             match = installed.get(name.lower())
             if match:
                 out.write(match + "\n")
+
+
+import sys
+
+def is_running_colab():
+    return 'google.colab' in sys.modules
