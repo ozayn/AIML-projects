@@ -1,6 +1,8 @@
 
 import os
 import pkg_resources
+import inspect
+import sys
 
 def run_command(command=""):
     os.system(command)
@@ -27,7 +29,13 @@ def create_requirements_with_versions(req_name_orig="requirements0.txt",
                 out.write(match + "\n")
 
 
-import sys
-
 def is_running_colab():
     return 'google.colab' in sys.modules
+
+
+def get_function_def(func):
+    print(inspect.getsource(func))
+
+def is_same_function(func, ftext):
+    out1 = inspect.getsource(func)
+    return out1==ftext
