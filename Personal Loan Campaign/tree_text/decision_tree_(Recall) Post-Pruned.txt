@@ -1,0 +1,40 @@
+|--- Income <= 92.50
+|   |--- CCAvg <= 2.95
+|   |   |--- weights: [1344.67, 0.00] class: 0
+|   |--- CCAvg >  2.95
+|   |   |--- CD_Account <= 0.50
+|   |   |   |--- CCAvg <= 3.95
+|   |   |   |   |--- weights: [41.42, 52.87] class: 1
+|   |   |   |--- CCAvg >  3.95
+|   |   |   |   |--- weights: [23.19, 0.00] class: 0
+|   |   |--- CD_Account >  0.50
+|   |   |   |--- weights: [0.00, 26.44] class: 1
+|--- Income >  92.50
+|   |--- Education_1 <= 0.50
+|   |   |--- Income <= 116.50
+|   |   |   |--- CCAvg <= 2.85
+|   |   |   |   |--- Income <= 106.50
+|   |   |   |   |   |--- weights: [37.55, 0.00] class: 0
+|   |   |   |   |--- Income >  106.50
+|   |   |   |   |   |--- weights: [23.75, 37.01] class: 1
+|   |   |   |--- CCAvg >  2.85
+|   |   |   |   |--- weights: [6.63, 153.32] class: 1
+|   |   |--- Income >  116.50
+|   |   |   |--- weights: [0.00, 1173.72] class: 1
+|   |--- Education_1 >  0.50
+|   |   |--- Family_3 <= 0.50
+|   |   |   |--- Family_4 <= 0.50
+|   |   |   |   |--- Income <= 103.50
+|   |   |   |   |   |--- CCAvg <= 3.21
+|   |   |   |   |   |   |--- weights: [22.09, 0.00] class: 0
+|   |   |   |   |   |--- CCAvg >  3.21
+|   |   |   |   |   |   |--- weights: [2.76, 15.86] class: 1
+|   |   |   |   |--- Income >  103.50
+|   |   |   |   |   |--- weights: [239.11, 0.00] class: 0
+|   |   |   |--- Family_4 >  0.50
+|   |   |   |   |--- weights: [1.10, 105.74] class: 1
+|   |   |--- Family_3 >  0.50
+|   |   |   |--- Income <= 108.50
+|   |   |   |   |--- weights: [6.07, 0.00] class: 0
+|   |   |   |--- Income >  108.50
+|   |   |   |   |--- weights: [1.66, 185.05] class: 1

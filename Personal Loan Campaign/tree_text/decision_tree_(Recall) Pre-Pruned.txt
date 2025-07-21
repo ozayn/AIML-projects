@@ -1,0 +1,10 @@
+|--- Income <= 92.50
+|   |--- CCAvg <= 2.95
+|   |   |--- weights: [1344.67, 0.00] class: 0
+|   |--- CCAvg >  2.95
+|   |   |--- weights: [64.61, 79.31] class: 1
+|--- Income >  92.50
+|   |--- Education_1 <= 0.50
+|   |   |--- weights: [67.92, 1364.05] class: 1
+|   |--- Education_1 >  0.50
+|   |   |--- weights: [272.80, 306.65] class: 1

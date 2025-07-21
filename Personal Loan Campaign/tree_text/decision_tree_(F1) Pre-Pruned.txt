@@ -1,0 +1,43 @@
+|--- Income <= 116.50
+|   |--- CCAvg <= 2.95
+|   |   |--- Income <= 106.50
+|   |   |   |--- weights: [2553.00, 0.00] class: 0
+|   |   |--- Income >  106.50
+|   |   |   |--- Family_4 <= 0.50
+|   |   |   |   |--- ZIPCode (SCF)_93 <= 0.50
+|   |   |   |   |   |--- Age <= 28.50
+|   |   |   |   |   |   |--- weights: [5.00, 1.00] class: 0
+|   |   |   |   |   |--- Age >  28.50
+|   |   |   |   |   |   |--- weights: [55.00, 1.00] class: 0
+|   |   |   |   |--- ZIPCode (SCF)_93 >  0.50
+|   |   |   |   |   |--- weights: [3.00, 1.00] class: 0
+|   |   |   |--- Family_4 >  0.50
+|   |   |   |   |--- weights: [16.00, 7.00] class: 0
+|   |--- CCAvg >  2.95
+|   |   |--- Income <= 92.50
+|   |   |   |--- CD_Account <= 0.50
+|   |   |   |   |--- Age <= 26.50
+|   |   |   |   |   |--- weights: [0.00, 1.00] class: 1
+|   |   |   |   |--- Age >  26.50
+|   |   |   |   |   |--- CCAvg <= 3.55
+|   |   |   |   |   |   |--- weights: [40.00, 7.00] class: 0
+|   |   |   |   |   |--- CCAvg >  3.55
+|   |   |   |   |   |   |--- weights: [77.00, 2.00] class: 0
+|   |   |   |--- CD_Account >  0.50
+|   |   |   |   |--- weights: [0.00, 5.00] class: 1
+|   |   |--- Income >  92.50
+|   |   |   |--- Education_1 <= 0.50
+|   |   |   |   |--- weights: [11.00, 28.00] class: 1
+|   |   |   |--- Education_1 >  0.50
+|   |   |   |   |--- weights: [34.00, 9.00] class: 0
+|--- Income >  116.50
+|   |--- Education_1 <= 0.50
+|   |   |--- weights: [0.00, 222.00] class: 1
+|   |--- Education_1 >  0.50
+|   |   |--- Family_3 <= 0.50
+|   |   |   |--- Family_4 <= 0.50
+|   |   |   |   |--- weights: [375.00, 0.00] class: 0
+|   |   |   |--- Family_4 >  0.50
+|   |   |   |   |--- weights: [0.00, 14.00] class: 1
+|   |   |--- Family_3 >  0.50
+|   |   |   |--- weights: [0.00, 33.00] class: 1
