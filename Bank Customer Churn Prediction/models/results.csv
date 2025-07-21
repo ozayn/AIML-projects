@@ -1,0 +1,2 @@
+# Neurons,Activation Function,# Hidden Layers,# Dropout Layers,# Neurons (Hidden),Activation Function (Hidden),# Epochs,Batch Size,Optimizer,Learning Rate,Momentum,Weight Initializer,Regularization,Time (min),Train Loss,Validation Loss,Sampling,Train Recall,Validation Recall,|Train - Validation| Recall
+"[64, 32, 1]","['relu', 'relu', 'sigmoid']",2,0,"[64, 32]","['relu', 'relu']",120,32,SGD,0.0010000000474974513,0.0,GlorotUniform,[],2.51,0.37127864360809326,0.3796139657497406,Original,0.3619631826877594,0.33497536182403564,0.026987820863723755
