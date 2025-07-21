@@ -52,6 +52,12 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
+
+def camel_to_spaces(s):
+    return re.sub(r'([a-z])([A-Z])', r'\1 \2', s)
+
+
+
 def make_data_dictionary(df, ddict_str=""):
   dtypes = df.copy().dtypes
   description_dict = {D[0]: ': '.join(D[1:]) for D in [d.split(": ") for d in ddict_str.split('\n')]}
@@ -59,7 +65,8 @@ def make_data_dictionary(df, ddict_str=""):
   if ddict_str!='':
     dtypedf['Description'] = dtypedf.index.map(description_dict)
   else:
-    dtypedf['Description'] = dtypedf.index.to_series().apply(lambda x: x.replace('_', ' ').title())
+    # dtypedf['Description'] = dtypedf.index.to_series().apply(lambda x: x.replace('_', ' ').title())
+    dtypedf['Description'] = dtypedf.index.to_series().apply(lambda x: camel_to_spaces(x))
   # dtypedf['Description'] = dtypedf['Description'].fillna(dtypedf.Series(dtypedf.index, index=dtypedf.index))
   dtypedf['# unique'] = df.nunique()
   # if df.isnull().sum().sum()!=0:
@@ -455,7 +462,7 @@ def categorical_countplot(data, figsize = None, palette = 'Paired',
     plt.xticks(rotation=rotation)
 
 
-  title = f'Count Plot of {name}'
+  title = f"Count Plot of '{name}'"
   if get_top:
     title += f' (Top {nmax})'
   plt.title(title, pad = 25)
@@ -504,7 +511,8 @@ def univariate_categorical(data, name = None, figsize = None, palette = 'Paired'
 
 
 def modify_varname(name):
-  name = name.replace('_', ' ')
+  # name = name.replace('_', ' ')
+  name = camel_to_spaces(name)
   conv = {' Amt': ' Amount',
           ' Chng': ' Change',
           ' Bal': ' Balance',
@@ -513,6 +521,8 @@ def modify_varname(name):
           'Q4 Q1': 'Q4-Q1',
           ' To ': ' to ',
           ' Ct': ' Count'}
+  conv.update({'Cr ': 'Credit ',
+          'Of ': 'of '})
   for k, v in conv.items():
     if k in name:
       name = name.replace(k, v)
