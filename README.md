@@ -37,6 +37,7 @@ Built an image classifier to distinguish plant seedlings and weeds using TensorF
 Built an AI-driven system to extract and summarize market sentiment from news articles using LLMs, Transformers, Prompt Engineering, and text preprocessing.
 
 ### **7. Standardized Test Analysis (EDA)
+Comprehensive geospatial analysis of SAT/ACT requirements vs. state averages
 
 ---
 
