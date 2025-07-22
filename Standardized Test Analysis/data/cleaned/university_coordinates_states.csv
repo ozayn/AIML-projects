@@ -1,0 +1,398 @@
+school,place,coordinates,state
+Stanford University,"Stanford University, 408, Panama Mall, Stanford, Santa Clara County, California, 94305, United States","(37.4313138, -122.1693654)",California
+Princeton University,"Princeton University, Baker Lane, Princeton, Mercer County, New Jersey, 08540, United States","(40.3386752, -74.6583655)",New Jersey
+Columbia University,"Columbia University, West 120th Street, Manhattan Community Board 9, Manhattan, New York County, City of New York, New York, 10027, United States","(40.8077558, -73.9616141)",New York
+Yale University,"Yale University, West Haven, South Central Connecticut Planning Region, Connecticut, 06516, United States","(41.2571305, -72.9896696)",Connecticut
+California Institute of Technology (Caltech),"California Institute of Technology, East Del Mar Boulevard, Pasadena Council District 7, Pasadena, Los Angeles County, California, 91106, United States","(34.1370138, -118.1252883)",California
+Massachusetts Institute of Technology (MIT),"Massachusetts Institute of Technology, Vassar Street, The Port, Cambridge, Middlesex County, Massachusetts, 02238, United States","(42.3582529, -71.0966272)",Massachusetts
+Brown University,"Brown University, Carrington Avenue, Blackstone, Providence, Providence County, Rhode Island, 02912, United States","(41.8186395, -71.4088009)",Rhode Island
+University of Chicago,"The University of Chicago, 5801, South Ellis Avenue, Hyde Park, Chicago, Hyde Park Township, Cook County, Illinois, 60637, United States","(41.7913968, -87.6008439)",Illinois
+Pomona College,"Pomona College, Columbia Avenue, Claremont, Los Angeles County, California, 91711, United States","(34.0974775, -117.7117275)",California
+University of Pennsylvania,"University of Pennsylvania, Grays Ferry Avenue, South Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19104, United States","(39.9503945, -75.1946713)",Pennsylvania
+Dartmouth College,"Dartmouth College, Lakeview Drive, Lebanon, Grafton County, New Hampshire, 05088, United States","(43.7046756, -72.2942089)",New Hampshire
+Bowdoin College,"Bowdoin College, 255, Maine Street, Brunswick, Cumberland County, Maine, 04011, United States","(43.9012592, -69.959841)",Maine
+Duke University,"Duke University, West Pettigrew Street, Durham, Durham County, North Carolina, 27708, United States","(36.0001557, -78.9442297)",North Carolina
+Swarthmore College,"Swarthmore College, 500, College Avenue, Swarthmore, Delaware County, Pennsylvania, 19081, United States","(39.9029154, -75.3552419)",Pennsylvania
+Northwestern University,"Northwestern University, 633, Clark Street, Downtown, Evanston, Evanston Township, Cook County, Illinois, 60208, United States","(42.0557157, -87.6752945)",Illinois
+Vanderbilt University,"Vanderbilt University, 2201, West End Avenue, Nashville, Davidson County, Middle Tennessee, Tennessee, 37235, United States","(36.1438011, -86.8028189)",Tennessee
+Claremont McKenna College,"Claremont McKenna College, Butler Plaza, Claremont, Los Angeles County, California, 91711, United States","(34.0999577, -117.7061792)",California
+Johns Hopkins University,"Johns Hopkins University, 3400, North Charles Street, Charles Village, Baltimore, Maryland, 21218, United States","(39.3302022, -76.6218536)",Maryland
+Cornell University,"Cornell University, City of Ithaca, Town of Dryden, Tompkins County, New York, 14850, United States","(42.4529076, -76.4800842)",New York
+Rice University,"Rice University, 6100, Main Street, Houston, Harris County, Texas, 77005, United States","(29.7167915, -95.4047811)",Texas
+Amherst College,"Amherst College, Depot Road, Amherst, Hampshire County, Massachusetts, 01002, United States","(42.3703768, -72.5160692)",Massachusetts
+Barnard College,"Barnard College, Riverside Drive, Manhattan Community Board 9, Manhattan, New York County, City of New York, New York, 10115, United States","(40.8094864, -73.963551)",New York
+Bates College,"Bates College, 2, Robinson Gardens, Lewiston, Androscoggin County, Maine, 04240, United States","(44.1048469, -70.1980486)",Maine
+"University of California, Los Angeles (UCLA)","University of California, Los Angeles, Hilgard Avenue, Holmby Hills, Westwood, Los Angeles, Los Angeles County, California, 90095, United States","(34.0708777, -118.4468503)",California
+Tulane University,"Tulane University, 6823, Saint Charles Avenue, Black Pearl, Greenville, New Orleans, Orleans Parish, Louisiana, 70118, United States","(29.9412195, -90.1201009)",Louisiana
+University of Southern California,"University of Southern California, South Figueroa Street, Historic South-Central, Los Angeles, Los Angeles County, California, 90089, United States","(34.0218689, -118.2858579)",California
+Williams College,"Williams College, Hopkins Hall Drive, Williamstown, Berkshire County, Massachusetts, 01267, United States","(42.7130236, -73.2030082)",Massachusetts
+Colby College,"Colby College, 4000, Mayflower Hill Drive, Waterville, Kennebec County, Maine, 04901, United States","(44.5684775, -69.6600257)",Maine
+Pitzer College,"Pitzer College, East 9th Street, Claremont, Los Angeles County, California, 91711, United States","(34.1047176, -117.7050428)",California
+Colorado College,"Colorado College, 14, East Cache la Poudre Street, Downtown, Colorado Springs, El Paso County, Colorado, 80903, United States","(38.8480439, -104.8239509)",Colorado
+Harvey Mudd College,"Harvey Mudd College, North Mills Avenue, Claremont, Los Angeles County, California, 91711, United States","(34.1061401, -117.7087284)",California
+Georgetown University,"Georgetown University, 3700, O Street Northwest, Georgetown, Ward 2, Washington, District of Columbia, 20057, United States","(38.9089393, -77.0745796)",District of Columbia
+University of California Berkeley (UCB),"University of California, Berkeley, Milvia Street, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States","(37.8754996, -122.2390685)",California
+Tufts University,"Tufts University, Burget Avenue, Medford Hillside, West Medford, Medford, Middlesex County, Massachusetts, 02144, United States","(42.4064913, -71.1180073)",Massachusetts
+Washington University in St. Louis,"Washington University in St. Louis, South Big Bend Boulevard, Saint Louis, Saint Louis County, Missouri, 63130, United States","(38.6472402, -90.3084017)",Missouri
+Middlebury College,"Middlebury College, 14, Old Chapel Road, Middlebury, Addison County, Vermont, 05753, United States","(44.0036695, -73.1729528)",Vermont
+Carnegie Mellon University,"Carnegie Mellon University, Filmore Street, Bellefield, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States","(40.4441897, -79.9427192)",Pennsylvania
+University of Notre Dame,"University of Notre Dame du Lac, Ironwood Road, Maple Lane, Notre Dame, Saint Joseph County, Indiana, 46556, United States","(41.7045677, -86.2382203)",Indiana
+The Cooper Union,"The Cooper Union, Cooper Square, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10003, United States","(40.7298362, -73.9902662)",New York
+New York University (NYU),"New York University, Crosby Street, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States","(40.7292053, -73.9950148)",New York
+Haverford College,"Haverford College, Carter Road, Haverford Township, Delaware County, Pennsylvania, 19041, United States","(40.0071506, -75.3069423)",Pennsylvania
+Wesleyan University,"Wesleyan University, Main Street, Middletown, Lower Connecticut River Valley Planning Region, Connecticut, 06457, United States","(41.5559033, -72.6559884)",Connecticut
+Hamilton College,"Hamilton College, 198, College Hill Road, Town of Kirkland, Vernon Center, Town of Vernon, Oneida County, New York, 13323, United States","(43.0537974, -75.4069389)",New York
+Northeastern University,"Northeastern University, 360, Huntington Avenue, Mission Hill, Boston, Suffolk County, Massachusetts, 02115, United States","(42.3351052, -71.0892579)",Massachusetts
+Davidson College,"Davidson College, Thompson Street, Downtown, Davidson, Mecklenburg County, North Carolina, 28036, United States","(35.5032193, -80.8339303)",North Carolina
+Emory University,"Emory University, 201, Fox Lane Northeast, Villa Park, DeKalb County, Georgia, 30322, United States","(33.8004546, -84.3172378)",Georgia
+Carleton College,"Carleton College, 1, Juniper Avenue East, Northfield, Rice County, Minnesota, 55057, United States","(44.4718353, -93.1414581)",Minnesota
+Georgia Institute of Technology (Georgia Tech),"Georgia Tech, PATH Parkway, Atlanta, Fulton County, Georgia, 30332, United States","(33.7760948, -84.3988077)",Georgia
+Washington and Lee University,"Washington and Lee University, Boneyard Road, Rockbridge County, Virginia, 24450, United States","(37.7929993, -79.4477349)",Virginia
+Wellesley College,"Wellesley College, Dover Road, Wellesley, Norfolk County, Massachusetts, 02482, United States","(42.291776, -71.3032752)",Massachusetts
+Boston University,"Boston University, Brookline Avenue, Audubon Circle, Fenway-Kenmore, Boston, Suffolk County, Massachusetts, 02215, United States","(42.3504215, -71.1032247)",Massachusetts
+Colgate University,"Colgate University, Hamilton Street, Village of Hamilton, Town of Hamilton, Madison County, New York, 13346, United States","(42.8154037, -75.5395816)",New York
+"University of North Carolina, Chapel Hill","University of North Carolina at Chapel Hill, North Graham Street, Northside, Downtown, Chapel Hill, Orange County, North Carolina, 27516, United States","(35.9050353, -79.0477533)",North Carolina
+"University of Michigan, Ann Arbor","University of Michigan, 500, South State Street, Old Fourth Ward, Ann Arbor, Washtenaw County, Michigan, 48109, United States","(42.2942142, -83.7100389)",Michigan
+Vassar College,"Vassar College, New Hackensack Road, Arlington, Town of Poughkeepsie, Dutchess County, New York, 12604, United States","(41.6854718, -73.8934933)",New York
+Rhode Island School of Design,"Rhode Island School of Design, Providence County, Rhode Island, 02912, United States","(41.8271037, -71.4063901)",Rhode Island
+University of Virginia,"University of Virginia, Faulconer Drive, University of Virginia, Albemarle County, Virginia, 22903, United States","(38.0410576, -78.5055084)",Virginia
+Grinnell College,"Grinnell College, 1115, 8th Avenue, Grinnell, Grant Township, Poweshiek County, Iowa, 50112, United States","(41.7511199, -92.7198486)",Iowa
+Babson College,"Babson College, Brook Street, Wellesley, Norfolk County, Massachusetts, 02181, United States","(42.2949962, -71.2649172)",Massachusetts
+"University of California, Irvine (UCI)","University of California, Irvine, Ring Mall, University of California, Irvine, Irvine, Orange County, California, 92697, United States","(33.6429469, -117.8401606)",California
+University of Miami,"University of Miami, Carillo Street, Coral Gables, Miami-Dade County, Florida, 33124, United States","(25.7172724, -80.2787069)",Florida
+Boston College,"Boston College, Beacon Street, Newton Centre, Newton, Middlesex County, Massachusetts, 02159, United States","(42.3354481, -71.1682665)",Massachusetts
+Villanova University,"Villanova University, South Ithan Avenue, Garrett Hill, Radnor, Radnor Township, Delaware County, Pennsylvania, 19010, United States","(40.0367774, -75.3420233)",Pennsylvania
+University of Richmond,"University of Richmond, 28, Westhampton Way, Richmond, Virginia, 23173, United States","(37.5758623, -77.5412994)",Virginia
+"California State Polytechnic University, San Luis Obispo","California Polytechnic State University, 1, Grand Avenue, San Luis Obispo, San Luis Obispo County, California, 93407, United States","(35.3074623, -120.6646483)",California
+Trinity University,"Trinity University, Stadium Drive, San Antonio, Bexar County, Texas, 78212, United States","(29.4616913, -98.4835083)",Texas
+Case Western Reserve University,"Case Western Reserve University, 10900, Euclid Avenue, Uptown, Cleveland, Cuyahoga County, Ohio, 44106, United States","(41.5013869, -81.6007022)",Ohio
+University of Rochester,"University of Rochester River Campus, Jefferson Avenue, Genesee-Jefferson, City of Rochester, Monroe County, New York, 14611, United States","(43.129864, -77.628784)",New York
+"University of California, Santa Barbara (UCSB)","University of California, Santa Barbara, 552, Storke Road, Isla Vista, Santa Barbara County, California, 93106, United States","(34.4146025, -119.84581)",California
+Wake Forest University,"Wake Forest University, 1834, Wake Forest Road, Brookwood, Winston-Salem, Forsyth County, North Carolina, 27109, United States","(36.133893, -80.2755578)",North Carolina
+Skidmore College,"Skidmore College, City of Saratoga Springs, Saratoga County, New York, 12866, United States","(43.0987179, -73.7842286)",New York
+"University of California, San Diego (UCSD)","UCSD La Jolla Emergency Room, Medical Center Drive, University City, San Diego, San Diego County, California, 92161, United States","(32.8785324, -117.2265043)",California
+Brandeis University,"Brandeis University, 415, South Street, Angleside, Waltham, Middlesex County, Massachusetts, 02453, United States","(42.3665095, -71.2580196)",Massachusetts
+Lafayette College,"Lafayette College, 730, High Street, College Hill, Easton, Northampton County, Pennsylvania, 18042, United States","(40.6986835, -75.209246)",Pennsylvania
+American University,"American University, 4400, Massachusetts Avenue Northwest, Spring Valley, Ward 3, Washington, District of Columbia, 20016, United States","(38.9377511, -77.0894676)",District of Columbia
+University of Texas at Austin,"University of Texas at Austin, 1, Allandale, Austin, Travis County, Texas, 78712, United States","(30.2851494, -97.7339352)",Texas
+Scripps College,"Scripps College, Platt Boulevard, Claremont, Los Angeles County, California, 91711, United States","(34.1039184, -117.7093442)",California
+Lehigh University,"Lehigh University, Library Drive, Sayre Park, South Bethlehem, Bethlehem, Northampton County, Pennsylvania, 18015, United States","(40.6068028, -75.3782488)",Pennsylvania
+Macalester College,"Macalester College, 1600, Grand Avenue, Macalester - Groveland, Saint Paul, Ramsey County, Minnesota, 55105, United States","(44.9376942, -93.1692917)",Minnesota
+Smith College,"Smith College, Washington Avenue, Northampton, Hampshire County, Massachusetts, 01063, United States","(42.3162239, -72.6403932)",Massachusetts
+Bryn Mawr College,"Bryn Mawr College, West Montgomery Avenue, Bryn Mawr, Lower Merion Township, Montgomery County, Pennsylvania, 19010, United States","(40.0286808, -75.3154551)",Pennsylvania
+Trinity College (Hartford),"Trinity College, 300, Summit Street, Allen Place–Lincoln Street Historic District, Frog Hollow, Hartford, Connecticut, 06106, United States","(41.7471549, -72.6901199)",Connecticut
+Denison University,"Denison University, West College Street, Granville Historic District, Granville, Granville Township, Licking County, Ohio, 43023, United States","(40.073005, -82.5224859)",Ohio
+San Diego State University,"San Diego State University, 1, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States","(32.7761529, -117.0733037)",California
+Kenyon College,"Kenyon College, New Castle Road, Gambier, College Township, Knox County, Ohio, 43022, United States","(40.3725696, -82.3942746)",Ohio
+College of the Holy Cross,"College of the Holy Cross, 1, College Street, College Hill, Quinsigamond Village, Worcester, Worcester County, Massachusetts, 01610, United States","(42.2366865, -71.8070248)",Massachusetts
+Bucknell University,"Bucknell University, Market Street, Linntown, East Buffalo Township, Union County, Pennsylvania, 17837, United States","(40.9515356, -76.8879603)",Pennsylvania
+Hampton University,"Hampton University, 100, East Queen Street, East Hampton, Hampton, Virginia, 23668, United States","(37.0210096, -76.3386255)",Virginia
+Oberlin College,"Oberlin College, Maple Street, College Village Apartments, Oberlin, New Russia Township, Lorain County, Ohio, 44074, United States","(41.2957177, -82.2215696)",Ohio
+Occidental College,"Occidental College, 1600, Campus Road, Eagle Rock, Los Angeles, Los Angeles County, California, 90041, United States","(34.127195, -118.2099203)",California
+Connecticut College,"Connecticut College, 270, Mohegan Avenue, New London, Southeastern Connecticut Planning Region, Connecticut, 06320, United States","(41.3791334, -72.1065306)",Connecticut
+College of William and Mary,"College of William and Mary, Ironbound Road, Williamsburg, Virginia, 23186, United States","(37.2690934, -76.7220509)",Virginia
+Mount Holyoke College,"Mount Holyoke College, West Street, South Hadley, Hampshire County, Massachusetts, 01075, United States","(42.2553285, -72.5696688)",Massachusetts
+Berea College,"Berea College, 1, Chestnut Street, Berea, Madison County, Kentucky, 40403, United States","(37.5715364, -84.289796)",Kentucky
+Pratt Institute,"Pratt Institute, 200, Willoughby Avenue, Clinton Hill, Brooklyn, Kings County, City of New York, New York, 11205, United States","(40.6913383, -73.9630163)",New York
+Soka University of America,"Soka University of America, 1, University Drive, Aliso Viejo, Orange County, California, 92656, United States","(33.5546752, -117.7347405)",California
+"California State University, Los Angeles","California State University, Long Beach, East 7th Street, Long Beach, Los Angeles County, California, 90822, United States","(33.7817709, -118.1152001)",California
+"California State University, Long Beach","California State University, Long Beach, East 7th Street, Long Beach, Los Angeles County, California, 90822, United States","(33.7817709, -118.1152001)",California
+Reed College,"Reed College, 3203, Southeast Woodstock Boulevard, Eastmoreland, Portland, Multnomah County, Oregon, 97202, United States","(45.4814992, -122.6310136)",Oregon
+"Binghamton University, SUNY","State University of New York at Binghamton, 4400, Vestal Parkway East, Southside, City of Binghamton, Broome County, New York, 13902, United States","(42.0877998, -75.9706607)",New York
+Dickinson College,"Dickinson College, West Church Avenue, Carlisle, Cumberland County, Pennsylvania, 17030, United States","(40.2028115, -77.199574)",Pennsylvania
+University of Tulsa,"University of Tulsa, East 8th Street, Kendall-Whittier, Tulsa, Tulsa County, Oklahoma, 74104, United States","(36.1523306, -95.9459602)",Oklahoma
+George Washington University,"George Washington University, Ward 2, Washington, District of Columbia, 20037, United States","(38.8998938, -77.0474483)",District of Columbia
+"University of California, Davis (UCD)","University of California, Davis, 1, Newton Court, Davis, Yolo County, California, 95616, United States","(38.5337904, -121.7907544)",California
+Stevens Institute of Technology,"Stevens Institute of Technology, 1, 6th Street, Downtown, Hoboken, Hudson County, New Jersey, 07030, United States","(40.7448096, -74.0252392)",New Jersey
+St. Lawrence University,"Saint Lawrence University, 23, Romoda Drive, Village of Canton, Town of Canton, Saint Lawrence County, New York, 13617, United States","(44.5875837, -75.1481446)",New York
+Union College (Schenectady NY),"Union College, Union Street, Little Italy, City of Schenectady, Schenectady County, New York, 12309, United States","(42.8175752, -73.9283917)",New York
+Rensselaer Polytechnic Institute,"Rensselaer Polytechnic Institute, 110, 8th Street, Downtown, City of Troy, Rensselaer County, New York, 12180, United States","(42.7298969, -73.6796678)",New York
+Bentley University,"Bentley University, 175, Forest Street, Eastview Park, Waltham, Middlesex County, Massachusetts, 02452, United States","(42.3834189, -71.2225864)",Massachusetts
+Spelman College,"Spelman College, Greensferry Avenue Southwest, Atlanta University Center, Atlanta, Fulton County, Georgia, 30314, United States","(33.7450889, -84.4113833)",Georgia
+Loyola Marymount University,"Loyola Marymount University, Dawn Creek, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States","(33.9687824, -118.4182021)",California
+"University of Maryland, College Park","College Park–University of Maryland, 4931, Calvert Road, Old Town, College Park, Prince George's County, Maryland, 20740, United States","(38.9784587, -76.9282678)",Maryland
+Stony Brook University SUNY,"Stony Brook University, 100, Nicolls Road, Town of Brookhaven, Suffolk County, New York, 11794, United States","(40.9090809, -73.1205518)",New York
+Rhodes College,"Rhodes College, Charles Place, Memphis, Shelby County, West Tennessee, Tennessee, 38112, United States","(35.1556437, -89.9889355)",Tennessee
+"North Carolina State University, Raleigh","North Carolina State University, Pullen Road, Forest Park, Oberlin, Raleigh, Wake County, North Carolina, 27695, United States","(35.7718497, -78.674087)",North Carolina
+Baylor University,"Baylor University, 1301, South University Parks Drive, Waco, McLennan County, Texas, 76706, United States","(31.550434, -97.1102906)",Texas
+University of Dallas,"University of Dallas, 1845, East Northgate Drive, Irving, Dallas County, Texas, 75062, United States","(32.8487635, -96.9225676)",Texas
+Gettysburg College,"Gettysburg College, East Water Street, Gettysburg, Adams County, Pennsylvania, 17325, United States","(39.8374688, -77.2396405)",Pennsylvania
+Fordham University,"Fordham University, 441, East Fordham Road, The Bronx, Bronx County, City of New York, New York, 10458, United States","(40.8617344, -73.8860317)",New York
+Texas Christian University,"Texas Christian University, Westcliff Road North, Fort Worth, Tarrant County, Texas, 76109, United States","(32.7080148, -97.3611939)",Texas
+Southern Methodist University,"Southern Methodist University, 6425, Dyer Court, University Park, Dallas County, Texas, 75205, United States","(32.8418011, -96.7815281)",Texas
+Providence College,"Providence College, 1, Cunningham Square, Providence, Providence County, Rhode Island, 02918, United States","(41.8442938, -71.4354886)",Rhode Island
+St. Olaf College,"St. Olaf College, 1520, Norway Valley Road, Northfield, Rice County, Minnesota, 55057, United States","(44.4640025, -93.1871791)",Minnesota
+University of New Mexico,"University of New Mexico, Frontier Avenue Northeast, Nob Hill, Albuquerque, Bernalillo County, New Mexico, 87131, United States","(35.0866327, -106.6202094)",New Mexico
+University of Georgia,"University of Georgia, Athens, Clarke County, Georgia, United States","(33.9404278, -83.373049)",Georgia
+University of San Diego,"University of San Diego, 5998, Alcala Park Way, San Diego, San Diego County, California, 92110, United States","(32.7726301, -117.1891347)",California
+University of Connecticut,"University of Connecticut, North Eagleville Road, Mansfield, Capitol Planning Region, Connecticut, 06269, United States","(41.8111114, -72.2483889)",Connecticut
+Santa Clara University,"Santa Clara University, 500, El Camino Real, Santa Clara, Santa Clara County, California, 95053, United States","(37.3486243, -121.936544)",California
+Southwestern University,"Southwestern University, Hutto Road, University Park, Georgetown, Williamson County, Texas, 78626, United States","(30.6371513, -97.662741)",Texas
+"Pennsylvania State University, University Park","University Park Post Office, 54, Henderson Drive, State College, Centre County, Pennsylvania, 16802, United States","(40.7976671, -77.8621002)",Pennsylvania
+The College of New Jersey,"The College of New Jersey, Browning Avenue, Braeburn Heights, Ewing Township, Mercer County, New Jersey, 08618, United States","(40.2685515, -74.7779768)",New Jersey
+Worcester Polytechnic Institute,"Worcester Polytechnic Institute, 100, Institute Road, Massachusetts Avenue Historic District, Hammond Heights, Worcester, Worcester County, Massachusetts, 01609, United States","(42.274315, -71.8084567)",Massachusetts
+Syracuse University,"Syracuse University, Salt Springs Road, Salt Springs, City of Syracuse, Onondaga County, New York, 13210, United States","(43.0171129, -76.1185536)",New York
+University of La Verne,"University of La Verne, 1st Street, La Verne, Los Angeles County, California, 91750, United States","(34.0998636, -117.7726225)",California
+Clemson University,"Clemson University, RV Lot, Pickens County, South Carolina, 29634, United States","(34.6686915, -82.8374348)",South Carolina
+Austin College,"Austin College, 900, North Grand Avenue, Sherman, Grayson County, Texas, 75090, United States","(33.6474084, -96.5980179)",Texas
+"University of California, Santa Cruz (UCSC)","University of California Santa Cruz Arboretum, Highview Drive, Western Drive/Nobel, University, Santa Cruz, Santa Cruz County, California, 95064, United States","(36.9823252, -122.0600187)",California
+"University of Washington, Seattle","University of Washington, Red Square, Central Campus, University District, Seattle, King County, Washington, 98195, United States","(47.6554303, -122.3001692)",Washington
+"California State University, Fullerton","California State University Fullerton, 800, North State College Boulevard, Fullerton, Orange County, California, 92831, United States","(33.8830939, -117.8852152)",California
+"University of Wisconsin, Madison","University of Wisconsin-Madison, North Park Street, South Campus, Bowens Addition, Madison, Dane County, Wisconsin, 53715, United States","(43.0802745, -89.4309587)",Wisconsin
+Colorado School of Mines,"Colorado School of Mines, 1500, Illinois Street, Golden, Jefferson County, Colorado, 80401, United States","(39.7386338, -105.2246389)",Colorado
+Chapman University,"Chapman University, 1, University Drive, Orange, Orange County, California, 92866, United States","(33.7933817, -117.8516959)",California
+"Ohio State University, Columbus","The Ohio State University, 281, West Lane Avenue, University District District 2, Columbus, Sharon, Franklin County, Ohio, 43210, United States","(40.0056802, -83.0286612)",Ohio
+Texas Lutheran University,"Texas Lutheran University, 1000, West Court Street, Seguin, Guadalupe County, Texas, 78155, United States","(29.573997, -97.98518)",Texas
+University at Albany SUNY,"University at Albany, The State University of New York, The Rise Apartments - Pine Hills, City of Albany, Albany County, New York, 12203, United States","(42.6840271, -73.8258773)",New York
+College of Wooster,"College of Wooster, 1189, Beall Avenue, Wooster Public Square Historic District, Wooster, Wayne County, Ohio, 44691, United States","(40.8116177, -81.9338583)",Ohio
+San Jose State University,"San José State University Main Campus, 1, South 9th Street, Horace Mann, San Jose, Santa Clara County, California, 95192, United States","(37.3351902, -121.8812255)",California
+"California State Polytechnic University, Pomona","California State Polytechnic University, Pomona, 3801, Temple Avenue, Pomona, Los Angeles County, California, 91768, United States","(34.0556686, -117.8239282)",California
+Whitman College,"Whitman College, South Palouse Street, Walla Walla, Walla Walla County, Washington, 99362, United States","(46.0705665, -118.3303178)",Washington
+Sarah Lawrence College,"Sarah Lawrence College, Lawrence Park Terrace, Gunther Park, City of Yonkers, Westchester County, New York, 10704, United States","(40.9344239, -73.8449773)",New York
+New School,"New School, Rochester, Oakland County, Michigan, United States","(42.677811, -83.1453895)",Michigan
+University of Pittsburgh,"University of Pittsburgh, 4200, Fifth Avenue, Fifth & Forbes, Downtown, Pittsburgh, Allegheny County, Pennsylvania, 15260, United States","(40.444153, -79.962461)",Pennsylvania
+"University of California, Riverside (UCR)","University of California, Riverside, 900, University Avenue, Riverside, Riverside County, California, 92521, United States","(33.9642576, -117.3398097)",California
+"University of Minnesota, Twin Cities","The University of Minnesota, Twin Cities Campus, West Dan Patch Avenue, Falcon Heights, Ramsey County, Minnesota, 55455, United States","(44.9863392, -93.1794558)",Minnesota
+Hobart and William Smith Colleges,"Hobart and William Smith Colleges, Reed Street, Town of Geneva, Ontario County, New York, 14456, United States","(42.8570498, -76.9871974)",New York
+Abilene Christian University,"Abilene Christian University, 1600, Acu Drive, Abilene, Taylor County, Texas, 79699, United States","(32.4699728, -99.7073595)",Texas
+Bennington College,"Bennington College, Devil's Way, Paper Mill Village, Bennington, Bennington County, Vermont, 05257, United States","(42.9204432, -73.2385253)",Vermont
+Birmingham-​Southern College,"Birmingham Southern College, 12th Place, Owenton, Birmingham, Jefferson County, Alabama, 35254, United States","(33.5161855, -86.855847)",Alabama
+Fairfield University,"Fairfield University, 1073, North Benson Road, Fairfield, Greater Bridgeport Planning Region, Connecticut, 06824, United States","(41.1596756, -73.2574031)",Connecticut
+Georgia State,"Georgia State, 2, Martin Luther King Jr Drive Southeast, Capitol Gateway, Atlanta, Fulton County, Georgia, 30303, United States","(33.7501652, -84.3859566)",Georgia
+Texas A&M University,"Texas A&M University, 400, Bizzell Street, The Gardens Apartments, College Station, Brazos County, Texas, 77843, United States","(30.6108618, -96.3520606)",Texas
+Saint Louis University,"Saint Louis University, 1, North Grand Boulevard, Midtown, Saint Louis, Missouri, 63103, United States","(38.635359, -90.2318433)",Missouri
+St. John's College Annapolis,"St. John's College, 60, College Avenue, Annapolis, Anne Arundel County, Maryland, 21401, United States","(38.9822832, -76.4922375)",Maryland
+Lake Forest College,"Lake Forest College, 555, North Sheridan Road, Lake Forest, Lake County, Illinois, 60045, United States","(42.2476174, -87.8294821)",Illinois
+Kennesaw State University,"Kennesaw State University, 1000, Chastain Road, Kennesaw, Cobb County, Georgia, 30144, United States","(34.0383451, -84.5831053)",Georgia
+"California State University, Fresno","California State University, Fresno, 5241, North Maple Avenue, Fresno, Fresno County, California, 93740, United States","(36.8209963, -119.7372976)",California
+Rollins College,"Rollins College, 1000, Holt Avenue, Winter Park, Orange County, Florida, 32789, United States","(28.5925815, -81.3483095)",Florida
+University of Hawaii at Manoa,"University of Hawaiʻi at Mānoa, 2500, Campus Road, Lower Mānoa, Mānoa, East Honolulu, Honolulu, Honolulu County, Hawaii, 96822, United States","(21.2982795, -157.8186932)",Hawaii
+University of Denver,"University of Denver, 2199, South University Boulevard, Denver, Colorado, 80208, United States","(39.6766157, -104.9623745)",Colorado
+Hampden-​Sydney College,"Hampden-Sydney College, College Road, The Birthplace, Hampden Sydney, Prince Edward County, Virginia, 23943, United States","(37.2423749, -78.4605692)",Virginia
+University of Illinois at Urbana-Champaign,"Atkins Golf Club at the University of Illinois, 2600, South Stone Creek Boulevard, Mira, Urbana, Champaign County, Illinois, 61802, United States","(40.0906292, -88.176418)",Illinois
+Millsaps College,"Millsaps College, 1701, North State Street, Greater Belhaven, Jackson, Hinds County, Mississippi, 39210, United States","(32.3219635, -90.1798225)",Mississippi
+"California State University, Northridge","California State University, Northridge, 18111, Nordhoff Street, Northridge East Neighborhood Council District, Los Angeles, Los Angeles County, California, 91330, United States","(34.2455346, -118.5263221)",California
+Clark University,"Clark University, Page Street, Piedmont, Main South, Worcester, Worcester County, Massachusetts, 01610, United States","(42.2514681, -71.8229509)",Massachusetts
+Lipscomb University,"Lipscomb University, Morrow Avenue, Nashville, Davidson County, Middle Tennessee, Tennessee, 37204, United States","(36.1050716, -86.7986409)",Tennessee
+Virginia Military Institute,"Virginia Military Institute, 319, Letcher Avenue, Lexington, Virginia, 24450, United States","(37.7913339, -79.4355152)",Virginia
+Purdue University,"Purdue University, 610, West Lafayette, Tippecanoe County, Indiana, 47907, United States","(40.430028, -86.9264211)",Indiana
+Temple University,"Temple University, 1801, North Broad Street, Stanton, North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19122, United States","(39.981188, -75.1562828)",Pennsylvania
+Illinois Institute of Technology,"Illinois Institute of Technology, East 31st Street, Douglas, Chicago, Cook County, Illinois, 60616, United States","(41.8361641, -87.6264723)",Illinois
+Yeshiva University,"Yeshiva University, 2475, Amsterdam Avenue, Fort George, Manhattan, New York County, City of New York, New York, 10033, United States","(40.8489807, -73.9298403)",New York
+Illinois Wesleyan University,"Illinois Wesleyan University, 1312, North Evans Street, Old East Side, Bloomington, McLean County, Illinois, 61701, United States","(40.4924271, -88.9904211)",Illinois
+Furman University,"Furman University, 3300, Poinsett Highway, North Village, Travelers Rest, Greenville County, South Carolina, 29613, United States","(34.9257743, -82.4385258)",South Carolina
+University at Buffalo SUNY,"University at Buffalo, Town of Amherst, Erie County, New York, United States","(43.0019863, -78.7859649)",New York
+"Concordia College, Moorhead","Concordia College, 901, 8th Street South, Moorhead, Clay County, Minnesota, 56562, United States","(46.862419, -96.7694258)",Minnesota
+University of Portland,"University of Portland, 5000, North Willamette Boulevard, University Park, Portland, Multnomah County, Oregon, 97203, United States","(45.5736806, -122.7282878)",Oregon
+Cornell College,"Cornell College, 600, 1st Street Southwest, Mount Vernon, Linn County, Iowa, 52314, United States","(41.9258988, -91.4254156)",Iowa
+Muhlenberg College,"Muhlenberg College, North Albright Avenue, West End, Allentown, Lehigh County, Pennsylvania, 18102, United States","(40.5975826, -75.5104839)",Pennsylvania
+Gonzaga University,"Gonzaga University, East Trent Avenue, University District, Spokane, Spokane County, Washington, 99202, United States","(47.6671025, -117.4030546)",Washington
+Beloit College,"Beloit College, Emerson Street, Beloit, Rock County, Wisconsin, 53511, United States","(42.5009819, -89.0157777)",Wisconsin
+Lawrence University,"Lawrence University, 711, East Boldt Way, Appleton, Outagamie County, Wisconsin, 54911, United States","(44.2607247, -88.398891)",Wisconsin
+University of Utah,"University of Utah, 201, Presidents Circle, Salt Lake City, Salt Lake County, Utah, 84112, United States","(40.7628137, -111.8368719)",Utah
+Allegheny College,"Allegheny College, 520, Meadville, Crawford County, Pennsylvania, 16335, United States","(41.6480894, -80.1452977)",Pennsylvania
+University of Delaware,"University of Delaware, The Green, Newark, New Castle County, Delaware, 19716, United States","(39.6803338, -75.7530749)",Delaware
+Westmont College,"Westmont College, 955, La Paz Road, Montecito, Santa Barbara County, California, 93108, United States","(34.4504079, -119.6615297)",California
+Earlham College,"Earlham College, Southwest 9th Street, Richmond, Wayne County, Indiana, 47374, United States","(39.8204275, -84.9132312)",Indiana
+Augustana College,"Augustana College, 32nd Street, Rock Island, Rock Island County, Illinois, 61201, United States","(41.5015277, -90.5503699)",Illinois
+Wofford College,"Wofford College, Edgewood Avenue, Spartanburg, Spartanburg County, South Carolina, 29303, United States","(34.9611582, -81.9353216)",South Carolina
+New Jersey Institute of Technology (NJIT),"New Jersey Institute of Technology, Sussex Avenue, Newark, Essex County, New Jersey, 07102, United States","(40.7421254, -74.1790316)",New Jersey
+"University of Massachusetts, Amherst","University of Massachusetts Amherst, North Pleasant Street, Amherst, Hampshire County, Massachusetts, 01004, United States","(42.3875741, -72.5299209)",Massachusetts
+Wabash College,"Wabash College, 301, Porter Street, Crawfordsville, Montgomery County, Indiana, 47933, United States","(40.0367517, -86.9072699)",Indiana
+DePauw University,"DePauw University, 313, South Locust Street, Greencastle, Putnam County, Indiana, 46135, United States","(39.6380494, -86.8668737)",Indiana
+Drury University,"Drury University, 900, North Benton Avenue, Midtown, Springfield, Greene County, Missouri, 65802, United States","(37.2182356, -93.2846472)",Missouri
+St. John Fisher College,"St. John Fisher University, Town of Pittsford, Monroe County, New York, 14445, United States","(43.114276, -77.510747)",New York
+University of San Francisco,"University of San Francisco, 2130, Fulton Street, Haight-Ashbury, San Francisco, California, 94117, United States","(37.7793627, -122.4514473)",California
+Bard College,"Bard College, 30, Campus Road, Town of Red Hook, Dutchess County, New York, 12504, United States","(42.0225482, -73.9107242)",New York
+Goshen College,"Goshen College, 1700, South Main Street, Parkside, Goshen, Elkhart County, Indiana, 46526, United States","(41.562483, -85.825225)",Indiana
+Agnes Scott College,"Agnes Scott College, Milton Candler Lane, Decatur, DeKalb County, Georgia, 30030, United States","(33.7688851, -84.2944452)",Georgia
+Virginia Polytechnic Institute (Virginia Tech),"Virginia Tech, 800, Drillfield Drive, Keister Addition, Blacksburg, Montgomery County, Virginia, 24061, United States","(37.2219268, -80.4272818)",Virginia
+University of Houston,"University of Houston, 4800, Calhoun Road, University Oaks, Houston, Harris County, Texas, 77004, United States","(29.7207902, -95.3440627)",Texas
+"University of North Carolina, Charlotte","The University of North Carolina at Charlotte, 9201, University City Boulevard, University City, Charlotte, Mecklenburg County, North Carolina, 28223, United States","(35.3064945, -80.7349705)",North Carolina
+Truman State University,"Truman State University, East Scott Street, Kirksville, Adair County, Missouri, 63501, United States","(40.184327, -92.5825832)",Missouri
+"University of North Carolina, Wilmington","University of North Carolina at Wilmington, 601, South College Road, Wilmington, New Hanover County, North Carolina, 28403, United States","(34.2249827, -77.8690774)",North Carolina
+"SUNY, Geneseo","SUNY Geneseo, Hillside Drive, Village of Geneseo, Town of Geneseo, Livingston County, New York, 14454, United States","(42.7982449, -77.8237202)",New York
+Embry-​Riddle Aeronautical University,"Embry-Riddle Aeronautical University, Airport Plaza Drive, Long Beach, Los Angeles County, California, 90815, United States","(33.8082375, -118.1344224)",California
+University of the Pacific,"University of the Pacific, 3601, Pacific Avenue, Stockton, San Joaquin County, California, 95211, United States","(37.9804237, -121.3128472)",California
+Rochester Institute of Technology,"Rochester Institute of Technology, 1, Lomb Memorial Drive, City of Rochester, Monroe County, New York, 14623, United States","(43.0826701, -77.6729322)",New York
+Berry College,"Berry College, Rome, Floyd County, Georgia, 30149, United States","(34.290842, -85.1890789)",Georgia
+Mississippi State University,"Mississippi State University, 75, George Perry Street, Oktibbeha County, Mississippi, 39762, United States","(33.4386876, -88.7943232)",Mississippi
+"Sewanee, University of the South","The University of the South, Mitchell Avenue, Sewanee, Franklin County, Middle Tennessee, Tennessee, 37375, United States","(35.2044041, -85.9189506)",Tennessee
+Hanover College,"Hanover College, College Avenue, Hanover, Jefferson County, Indiana, 47243, United States","(38.7165177, -85.4616428)",Indiana
+Coe College,"Coe College, 1220, 1st Avenue East, MedQuarter, Cedar Rapids, Linn County, Iowa, 52402, United States","(41.9905971, -91.6569664)",Iowa
+Randolph-​Macon College,"Randolph Macon College, 114, Henry Clay Road, Ashland, Hanover County, Virginia, 23005, United States","(37.7625105, -77.4795421)",Virginia
+Loyola University Chicago,"Loyola University Chicago, 1032, West Sheridan Road, Edgewater Glen, Edgewater, Chicago, Lake View Township, Cook County, Illinois, 60660, United States","(41.9991492, -87.6573704)",Illinois
+University of Vermont,"University of Vermont, North Prospect Street, Burlington, Chittenden County, Vermont, 05401, United States","(44.4737365, -73.1941468)",Vermont
+San Francisco State University,"San Francisco State University, 1600, Holloway Avenue, Ingleside Terraces, San Francisco, California, 94132, United States","(37.7245167, -122.4799957)",California
+"Brigham Young University, Provo","Brigham Young University, East 2020 North, Pleasant View, Provo, Utah County, Utah, 84602, United States","(40.2554083, -111.6496832)",Utah
+Drake University,"Drake University, Mondamin Avenue, Kirkwood Glen, Des Moines, Polk County, Iowa, 50310, United States","(41.6030742, -93.6552753)",Iowa
+Stonehill College,"Stonehill College, 320, Washington Street, Daley Corner, North Easton, Easton, Bristol County, Massachusetts, 02357, United States","(42.0599777, -71.0793257)",Massachusetts
+Taylor University,"Taylor University, 236, West Reade Avenue, Upland, Grant County, Indiana, 46989, United States","(40.4560812, -85.5011884)",Indiana
+DePaul University,"DePaul University, West Fullerton Avenue, Wrightwood Neighbors, Lincoln Park, Chicago, Cook County, Illinois, 60614, United States","(41.9245803, -87.6507223)",Illinois
+Knox College,"Knox College, South Academy Street, Galesburg, Knox County, Illinois, 61401, United States","(40.9419283, -90.3722583)",Illinois
+Hofstra University,"Hofstra University, Holland House, Village of Hempstead, Town of Hempstead, Nassau County, New York, 11549, United States","(40.7169083, -73.6000225)",New York
+Ithaca College,"Ithaca College, Gym Road, South Hill, Town of Ithaca, Tompkins County, New York, 14851, United States","(42.4197035, -76.4983348)",New York
+"California State University, San Bernardino","California State University, University Parkway, Serrano Village, San Bernardino, San Bernardino County, California, 92407, United States","(34.1799047, -117.3263)",California
+University of South Carolina,"University of South Carolina, Catawba Street, Columbia, Richland County, South Carolina, 29201, United States","(33.9928841, -81.0268676)",South Carolina
+Albion College,"Albion College, 611, East Porter Street, Albion, Calhoun County, Michigan, 49224, United States","(42.2437255, -84.742901)",Michigan
+Presbyterian College (SC),"Presbyterian College, 5th Avenue, Clinton, Laurens County, South Carolina, 29325, United States","(34.4627505, -81.8671771)",South Carolina
+Texas Tech University,"Texas Tech University, 2500, Broadway, Lubbock, Lubbock County, Texas, 79409, United States","(33.5937525, -101.8995955)",Texas
+Ohio Wesleyan University,"Ohio Wesleyan University, Darlington Road, Sandusky Street Historic District, Delaware, Delaware County, Ohio, 43015, United States","(40.292858, -83.0642763)",Ohio
+Ripon College,"Ripon College, 300, Dartford Road, Ripon, Fond du Lac County, Wisconsin, 54971, United States","(43.8410236, -88.8539386)",Wisconsin
+Drew University,"Drew University, Vinal Place, Fairwoods, Madison, Morris County, New Jersey, 07940, United States","(40.7605379, -74.4281605)",New Jersey
+Gustavus Adolphus College,"Gustavus Adolphus College, West Locust Street, Saint Peter, Nicollet County, Minnesota, 56082, United States","(44.3241873, -93.9714681)",Minnesota
+Central Michigan,"Central Michigan, 777, Woodward Avenue, Greektown, Detroit, Wayne County, Michigan, 48226, United States","(42.3310044, -83.0472646)",Michigan
+Oklahoma State University,"Oklahoma State University, Stillwater, Payne County, Oklahoma, United States","(36.1313112, -97.0890259)",Oklahoma
+Bradley University,"Bradley University, 1501, West Bradley Avenue, St. James Apartments, Peoria, Peoria County, Illinois, 61625, United States","(40.6981131, -89.6155139)",Illinois
+Seton Hall University,"Seton Hall University, South Centre Street, South Orange, Essex County, New Jersey, 07079, United States","(40.7433314, -74.2468921)",New Jersey
+Biola University,"Biola University, 13800, Biola Avenue, La Mirada, Los Angeles County, California, 90639, United States","(33.90686, -118.0152172)",California
+Ursinus College,"Ursinus College, Ursinus Avenue, Trappe, Montgomery County, Pennsylvania, 19426, United States","(40.1954088, -75.4553199)",Pennsylvania
+Montclair State,"Montclair State University, 1, Normal Avenue, Montclair Heights, Montclair, Essex County, New Jersey, 07043, United States","(40.8646878, -74.1969213)",New Jersey
+Clarkson University,"Clarkson University, Bayside Cemetery, Village of Potsdam, Town of Potsdam, Saint Lawrence County, New York, 13699, United States","(44.6595887, -75.0062397)",New York
+Michigan State University,"Michigan State University, 426, Auditorium Road, North Neighborhood, East Lansing, Ingham County, Michigan, 48824, United States","(42.7023794, -84.4803869)",Michigan
+Hollins University,"Hollins University, 7916, Williamson Road, Hollins Court, Hollins, Roanoke County, Virginia, 24020, United States","(37.3573684, -79.9436595)",Virginia
+Creighton University,"Creighton University, Cuming Street, Omaha, Douglas County, Nebraska, 68132, United States","(41.2658565, -95.9450555)",Nebraska
+California Lutheran University,"California Lutheran University, Bainbridge Court, Mountclef Village, Thousand Oaks, Ventura County, California, 91360, United States","(34.2265565, -118.8785217)",California
+University of Mary Washington,"University of Mary Washington, Hanover Street, Maryes Heights, Fredericksburg, Virginia, 22401, United States","(38.3007911, -77.4734265)",Virginia
+Christopher Newport University,"Christopher Newport University, 1, University Place, Newport News, Virginia, 23606, United States","(37.0637197, -76.4955712)",Virginia
+University of California—Merced,"University of California, Merced, 5200, University Avenue, Merced, Merced County, California, 95343, United States","(37.365182, -120.4225275)",California
+Mercer University,"Mercer University, Shamrock Street, Macon, Bibb County, Georgia, 31201, United States","(32.8289341, -83.6506702)",Georgia
+University of Dayton,"University of Dayton, Nellie Avenue, Walnut Hills, Dayton, Montgomery County, Ohio, 45410, United States","(39.7384598, -84.1791948)",Ohio
+Lewis & Clark College,"Lewis and Clark Community College, Calhoun Street, Godfrey, Madison County, Illinois, 63035, United States","(38.9523885, -90.1951205)",Illinois
+Hendrix College,"Hendrix College, 1600, Washington Avenue, Conway, Faulkner County, Arkansas, 72032, United States","(35.1008234, -92.4420508)",Arkansas
+University of Rhode Island,"University of Rhode Island, Complex Road, South Kingstown, South County, Rhode Island, 02881, United States","(41.4875094, -71.5343138)",Rhode Island
+"California State University, Chico","California State University, Chico, 400, West 1st Street, No sidewalk riding district, Chico, Butte County, California, 95929, United States","(39.7295013, -121.8481099)",California
+Stetson University,"Stetson University, 421, North Woodland Boulevard, DeLand, Volusia County, Florida, 32723, United States","(29.0365347, -81.3005411)",Florida
+Quinnipiac University,"Quinnipiac University, 275, Spruce Bank Road, Hamden, South Central Connecticut Planning Region, Connecticut, 06518, United States","(41.4181949, -72.8931049)",Connecticut
+Duquesne University,"Duquesne University, Gibbon Street, Bluff, Pittsburgh, Allegheny County, Pennsylvania, 15282, United States","(40.436531, -79.9904817)",Pennsylvania
+"University of Illinois, Chicago (UIC)","Illinois Institute of Technology, East 31st Street, Douglas, Chicago, Cook County, Illinois, 60616, United States","(41.8361641, -87.6264723)",Illinois
+University of Akron,"University of Akron, Grant Street, Downtown Akron, Downtown, Akron, Summit County, Ohio, 44325, United States","(41.0757383, -81.5114532)",Ohio
+St. John's University (NY),"St. John's University, Park Lane, Grymes Hill, Staten Island, Richmond County, City of New York, New York, 10301, United States","(40.6212473, -74.0912008)",New York
+University of Cincinnati,"University of Cincinnati Uptown (West) Campus, West Martin Luther King Junior Drive, Andrew W. Breidenbach Environmental Research Center, Corryville, Cincinnati, Hamilton County, Ohio, 45268, United States","(39.1318991, -84.5157575)",Ohio
+Simmons University,"Simmons University, 300, Fenway, Fenway-Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States","(42.3389354, -71.1004318)",Massachusetts
+Wayne State University,"Wayne State University, 656, West Kirby Street, Midtown, Detroit, Wayne County, Michigan, 48202, United States","(42.3571895, -83.0709436)",Michigan
+Butler University,"Butler University, Lester Street, Indianapolis, Marion County, Indiana, 46208, United States","(39.8407191, -86.1737494)",Indiana
+Point Loma Nazarene University,"Point Loma Nazarene University, Lomaland Drive, Wooded Area, Point Loma, San Diego, San Diego County, California, 92107, United States","(32.7169659, -117.2510853)",California
+University of North Texas,"University of North Texas, 1155, Union Circle, Denton, Denton County, Texas, 76203, United States","(33.2098926, -97.1514762)",Texas
+University of North Georgia,"University of North Georgia (Oconee Campus), 1207, Bishop Farms Parkway, Watkinsville, Oconee County, Georgia, 30677, United States","(33.8661343, -83.4262405)",Georgia
+Xavier University,"Xavier University, Paddock Road, North Avondale Business District, Paddock Hills, Cincinnati, Hamilton County, Ohio, 45216, United States","(39.1513078, -84.4708348)",Ohio
+Wheaton College (MA),"Wheaton College, 26, East Main Street, Norton, Bristol County, Massachusetts, 02766, United States","(41.9670817, -71.1830932)",Massachusetts
+Eastern Michigan,"Eastern Michigan University, Putnam-Phelps, Riverside, Ypsilanti, Washtenaw County, Michigan, 48197, United States","(42.2522462, -83.6245615)",Michigan
+"University of Washington, Bothell","University of Washington Bothell, Campus Way Northeast, Bothell, King County, Washington, 19811, United States","(47.7603126, -122.1915305)",Washington
+Adelphi University,"Adelphi University, 1, South Avenue, Village of Garden City, Town of Hempstead, Nassau County, New York, 11530, United States","(40.7197638, -73.6519719)",New York
+Baldwin Wallace University,"Baldwin-Wallace University, East Grand Street, Berea, Cuyahoga County, Ohio, 44017, United States","(41.3716101, -81.8484895)",Ohio
+Michigan Technological University,"Michigan Technological University, 1400, Townsend Drive, Houghton, Houghton County, Michigan, 49931, United States","(47.1099114, -88.5511513)",Michigan
+Drexel University,"Drexel University, 3141, Chestnut Street, University City, West Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19104, United States","(39.9569305, -75.1899265)",Pennsylvania
+University of Redlands,"University of Redlands, Park Avenue, Redlands, San Bernardino County, California, 92374, United States","(34.0635903, -117.1638519)",California
+Loyola University New Orleans,"Loyola University New Orleans, Saint Charles Avenue, Black Pearl, Greenville, New Orleans, Orleans Parish, Louisiana, 70118, United States","(29.9356364, -90.1204516)",Louisiana
+"California State University, Monterey Bay","California State University, University Parkway, Serrano Village, San Bernardino, San Bernardino County, California, 92407, United States","(34.1799047, -117.3263)",California
+Whittier College,"Whittier College, 13406, Philadelphia Street, Whittier, Los Angeles County, California, 90602, United States","(33.9778416, -118.0302178)",California
+Kalamazoo College,"Kalamazoo College, West Main Street, West Main Hill, Kalamazoo, Kalamazoo County, Michigan, 49009, United States","(42.2907573, -85.5993647)",Michigan
+Towson University,"Towson University, 8000, York Road, Yorkleigh, Towson, Baltimore County, Maryland, 21204, United States","(39.3869768, -76.6185804)",Maryland
+Centre College,"Centre College, Harding Street, West Danville, Danville, Boyle County, Kentucky, 40422, United States","(37.6444259, -84.7809759)",Kentucky
+University of Texas San Antonio,"The University of Texas at San Antonio, 1, UTSA Circle, San Antonio, Bexar County, Texas, 78249, United States","(29.583331, -98.6194451)",Texas
+Ball State,"Ball State University, North Janney Avenue, Muncie, Delaware County, Indiana, 47304, United States","(40.2097296, -85.4112151)",Indiana
+James Madison University,"James Madison University, 800, South Main Street, Harrisonburg, Virginia, 22807, United States","(38.4364404, -78.8689648)",Virginia
+Appalachian State University,"Appalachian State University, 287, Rivers Street, Horn in the West, Boone, Watauga County, North Carolina, 28608, United States","(36.2113524, -81.6860913)",North Carolina
+"Indiana University, Bloomington","Indiana University Bloomington, South Clarizz Boulevard, Bloomington, Monroe County, Indiana, 47407, United States","(39.1802358, -86.5093526)",Indiana
+High Point University,"High Point University, Blessing Way, High Point, Guilford County, North Carolina, 27268, United States","(35.9720859, -79.9936582)",North Carolina
+Virginia Commonwealth University,"Virginia Commonwealth University, 907, Floyd Avenue, Carver, Richmond, Virginia, 23284, United States","(37.5461246, -77.4540609)",Virginia
+"University of Arkansas, Fayetteville","University of Arkansas, West Spruce Street, VA Hill, Fayetteville, Washington County, Arkansas, 72703, United States","(36.0970389, -94.1703322)",Arkansas
+John Brown University,"John Brown University, Cantrell Road, Sheraton Park, Little Rock, Big Rock Township, Pulaski County, Arkansas, 72227, United States","(34.7773056, -92.3646106)",Arkansas
+University of Idaho,"University of Idaho, 875, Perimeter Drive, Moscow, Latah County, Idaho, 83844, United States","(46.7237978, -117.020439)",Idaho
+University of Missouri,"University of Missouri, Columbia, Columbia Township, Boone County, Missouri, 65211, United States","(38.9364147, -92.329703)",Missouri
+Willamette University,"Willamette University, 900, State Street, Salem, Marion County, Oregon, 97301, United States","(44.9355889, -123.0308129)",Oregon
+"University of Nebraska, Lincoln","University of Nebraska-Lincoln City Campus, T Street, Hartley, Lincoln, Lancaster County, Nebraska, 68503, United States","(40.8205941, -96.7026058)",Nebraska
+Carroll College,"Carroll University, 100, North East Avenue, Waukesha, Waukesha County, Wisconsin, 53186, United States","(43.0039527, -88.2292641)",Wisconsin
+College of Charleston,"College of Charleston, 66, George Street, Ansonborough, French Quarter, Charleston, Charleston County, South Carolina, 29424, United States","(32.783631, -79.9380666)",South Carolina
+University of Colorado Boulder,"University of Colorado Boulder (Main Campus), Boulder, Boulder County, Colorado, 80309, United States","(40.0069373, -105.2663866)",Colorado
+Elon University,"Elon University, West Trollinger Avenue, Elon, Alamance County, North Carolina, 27244, United States","(36.1063398, -79.5027368)",North Carolina
+Seattle University,"Seattle University, 15th Avenue, Central District, Seattle, King County, Washington, 98122, United States","(47.6095043, -122.3187983)",Washington
+University of Texas Dallas,"University of Texas at Dallas, Loop Road, Richardson, Dallas County, Texas, 75080, United States","(32.9875855, -96.749784)",Texas
+East Carolina,"East Carolina University, 1001, East 5th Street, Uptown District, Greenville, Pitt County, North Carolina, 27858, United States","(35.6328512, -77.4852672)",North Carolina
+University of Tennessee,"University of Tennessee, Knoxville, Knox County, East Tennessee, Tennessee, United States","(35.9515612, -83.93088)",Tennessee
+University of Texas Arlington,"The University of Texas at Arlington, 701, South Nedderman Drive, Arlington, Tarrant County, Texas, 76013, United States","(32.7284713, -97.1120213)",Texas
+Pacific Lutheran University,"Pacific Lutheran University, 12180, Park Avenue South, Tacoma, Pierce County, Washington, 98447, United States","(47.1437573, -122.4443889)",Washington
+Western Michigan,"Western, Paw Paw Lake, Coloma Charter Township, Berrien County, Michigan, 49098, United States","(42.2113725, -86.2760155)",Michigan
+Loyola University Maryland,"Loyola University Maryland, 4501, North Charles Street, Loyola/Notre Dame, Greater Roland Park, Baltimore, Maryland, 21210, United States","(39.3483538, -76.6159318)",Maryland
+"Miami University, Oxford","Miami University, East Chestnut Street, Oxford, Oxford Township, Butler County, Ohio, 45056, United States","(39.5094198, -84.7311546)",Ohio
+Goucher College,"Goucher College, Hampton Lane, Dulaney Valley Estates, Towson, Baltimore County, Maryland, 21286, United States","(39.408995, -76.5928709)",Maryland
+"University of Oklahoma, Norman","University of Oklahoma, 660, Parrington Oval, Norman, Cleveland County, Oklahoma, 73019, United States","(35.1959878, -97.4457083)",Oklahoma
+Auburn University,"Auburn University, Auburn, Lee County, Alabama, 36849, United States","(32.5919528, -85.4959775)",Alabama
+"University of Nevada, Las Vegas","University of Nevada, Las Vegas, 4505, South Maryland Parkway, Filipino Town, Paradise, Clark County, Nevada, 89154, United States","(36.1079411, -115.1439051)",Nevada
+Boise State,"State, Boise, Ada County, Idaho, United States","(43.591363, -116.2322861)",Idaho
+St. Mary's College of California,"St. Mary's College of California, Mission Road, Moraga, Contra Costa County, California, 94575, United States","(37.8413193, -122.109287)",California
+Siena College,"Siena College, Newtonville, Town of Colonie, Albany County, New York, United States","(42.7192659, -73.751192)",New York
+University of North Dakota,"University of North Dakota, Healthy Way, Grand Forks, Grand Forks County, North Dakota, 58203, United States","(47.9265412, -97.0721209)",North Dakota
+Texas State University,"Texas State University, 601, University Drive, San Marcos, Hays County, Texas, 78666, United States","(29.8910941, -97.9376839)",Texas
+Colorado State University,"Colorado State University, Jefferson Street, Buckingham, Fort Collins, Larimer County, Colorado, 80523, United States","(40.5706567, -105.0853995)",Colorado
+University of Memphis,"The University of Memphis, University, Normal, Memphis, Shelby County, West Tennessee, Tennessee, 38152, United States","(35.1189387, -89.9372196)",Tennessee
+West Virginia University,"West Virginia University, Rohrbaugh Street, Westover, Monongalia County, West Virginia, 26501, United States","(39.6348397, -79.9542095)",West Virginia
+University of Oregon,"University of Oregon, 1585, East 13th Avenue, Eugene, Lane County, Oregon, 97403, United States","(44.0444197, -123.0717603)",Oregon
+University of St. Thomas (MN),"University of St. Thomas, South Mississippi River Boulevard, Macalester - Groveland, Saint Paul, Ramsey County, Minnesota, 55406, United States","(44.9421058, -93.1894522)",Minnesota
+St. Mary's College (IN),"Saint Mary's College, Holy Cross Circle, Notre Dame, Saint Joseph County, Indiana, 46624, United States","(41.7074744, -86.2562801)",Indiana
+Illinois State,"Illinois & State, East Illinois Street, River North, Near North Side, Chicago, Cook County, Illinois, 60654, United States","(41.8908202, -87.6277963)",Illinois
+Ohio University,"Ohio University, Richland Avenue, La Mar Heights, Athens, Athens Township, Athens County, Ohio, 45701, United States","(39.3241782, -82.1015648)",Ohio
+"California State University, Sacramento","California State University - Sacramento, 6000, J Street, East Sacramento, Sacramento, Sacramento County, California, 95819, United States","(38.5599044, -121.4240819)",California
+"University of North Carolina, Greensboro","University of North Carolina - Greensboro, 1400, Spring Garden Street, Greensboro, Guilford County, North Carolina, 27412, United States","(36.0679595, -79.8103669)",North Carolina
+University of Iowa,"University of Iowa, South Riverside Drive, Iowa City, Johnson County, Iowa, 52246, United States","(41.6311024, -91.540752)",Iowa
+University of Alaska Anchorage,"University of Alaska Anchorage, 3211, Providence Drive, Anchorage, Alaska, 99508, United States","(61.190379, -149.8223254)",Alaska
+Marquette University,"Marquette University, 1250, West Wisconsin Avenue, Avenues West, Downtown, Milwaukee, Milwaukee County, Wisconsin, 53233, United States","(43.0374344, -87.9294774)",Wisconsin
+College of St. Benedict,"College of Saint Benedict, Able Street East, Saint Joseph, Stearns County, Minnesota, 56374, United States","(45.5594818, -94.3182963)",Minnesota
+Oregon State University,"Oregon State University, 1500, Southwest Jefferson Way, Corvallis, Benton County, Oregon, 97331, United States","(44.5630559, -123.2839234)",Oregon
+The Catholic University of America,"Catholic University of America, 620, Michigan Avenue Northeast, Bellair, Ward 5, Washington, District of Columbia, 20064, United States","(38.9391024, -76.9999642)",District of Columbia
+University of Puget Sound,"University of Puget Sound, 1500, North Warner Street, 6th Avenue, Central Tacoma, Tacoma, Pierce County, Washington, 98416, United States","(47.261437, -122.4809573)",Washington
+University of New Hampshire,"University of New Hampshire, 105, Main Street, Durham Historic District, Durham, Strafford County, New Hampshire, 03824, United States","(43.1350987, -70.9462079)",New Hampshire
+Missouri University of Science & Technology,"Missouri University of Science and Technology, North Pine Street, Rolla, Phelps County, Missouri, 65409, United States","(37.9532435, -91.7742667)",Missouri
+St. Mary's College of Maryland,"St. Mary's College of Maryland, Point Lookout Road, Saint Mary's County, Maryland, 20686, United States","(38.1903261, -76.4252365)",Maryland
+University of Arizona,"University of Arizona, West Drachman Street, Tucson, Pima County, Arizona, 85721, United States","(32.2356928, -110.951744)",Arizona
+Susquehanna University,"Susquehanna University, 514, University Avenue, Dogtown, Selinsgrove, Snyder County, Pennsylvania, 17870, United States","(40.7968872, -76.8750374)",Pennsylvania
+"Arizona State University, Tempe","Arizona State University, 1151, South Forest Avenue, Tempe, Maricopa County, Arizona, 85281, United States","(33.4213174, -111.9331631)",Arizona
+Wheaton College (IL),"Wheaton College, 501, College Avenue, Wheaton, DuPage County, Illinois, 60187, United States","(41.8696374, -88.0975552)",Illinois
+Northern Arizona,"Northern Arizona University, West Saunders Drive, Green Tree Shopping Center, Flagstaff, Coconino County, Arizona, 86011, United States","(35.1830866, -111.654961)",Arizona
+Kent State,"Kent State University, Haymaker Parkway, Gateway, Kent, Portage County, Ohio, 44242, United States","(41.1442325, -81.3398321)",Ohio
+Mills College,"Bay Mills Community College, 12214, West Lakeshore Drive, Westons Iroquois Beach, Brimley, Bay Mills Township, Chippewa County, Michigan, 49715, United States","(46.4546027, -84.6065971)",Michigan
+Hope College,"Hope College, 141, East 12th Street, Holland, Ottawa County, Michigan, 49423, United States","(42.7867245, -86.0996427)",Michigan
+Valparaiso University,"Valparaiso University, Locust Street, Valparaiso, Porter County, Indiana, 46383, United States","(41.4629628, -87.044689)",Indiana
+George Mason University,"George Mason University, 4400, University Drive, Green Acres, Fairfax, Virginia, 22030, United States","(38.8313333, -77.3079884)",Virginia
+Old Dominion,"Old Dominion, Albemarle County, Virginia, 22969, United States","(37.827642, -78.666127)",Virginia
+Missouri State,"Missouri State University, 901, South National Avenue, Delaware, Springfield, Greene County, Missouri, 65897, United States","(37.2017202, -93.2807714)",Missouri
+University of Wisconsin Milwaukee,"University of Wisconsin-Milwaukee, 2200, East Kenwood Boulevard, Cambridge Woods, East Side, Milwaukee, Milwaukee County, Wisconsin, 53211, United States","(43.077639, -87.8819425)",Wisconsin
+Transylvania University,"Transylvania University, West Third Street, Northside, Lexington, Fayette County, Kentucky, 40707, United States","(38.053107, -84.4939872)",Kentucky
+Weber State,"Weber State University, 3848, Harrison Boulevard, Ogden, Weber County, Utah, 84408, United States","(41.1887229, -111.9456028)",Utah
+University of Maine,"University of Maine, 168, College Avenue, Webster, Orono, Penobscot County, Maine, 04469, United States","(44.9015188, -68.6617222)",Maine
+Humboldt State University,"California State Polytechnic University, Humboldt, 1, Harpst Street, Arcata, Humboldt County, California, 95521, United States","(40.8755745, -124.078044)",California
+Utah State,"Utah State University, Davis Avenue, Hillcrest Neighborhood, Logan, Cache County, Utah, 84322, United States","(41.7526959, -111.808733)",Utah
+Iowa State University,"Iowa State University, Lindenwood Circle, Northridge Parkway, Ames, Story County, Iowa, 50011, United States","(42.0279608, -93.6447375)",Iowa
+Washington College,"Washington College, 300, Washington Avenue, Mile Tree Village, Chestertown, Kent County, Maryland, 21620, United States","(39.218376, -76.0692567)",Maryland
+University of Montana,"University of Montana, East Broadway Street, Lower Rattlesnake, Missoula, Missoula County, Montana, 59702, United States","(46.8541841, -113.9655283)",Montana
+Samford University,"Samford University, Shades Creek Greenway (Lakeshore Trail), Lake Shore Estates, Homewood, Jefferson County, Alabama, 35229, United States","(33.4641484, -86.7939592)",Alabama
+University of Kansas,"University of Kansas, 1450, Jayhawk Boulevard, Lawrence, Douglas County, Kansas, 66045, United States","(38.9535051, -95.2630922)",Kansas
+University of Kentucky,"University of Kentucky, 101, Colliseum Alley, Academic Core, University of Kentucky, Lexington, Fayette County, Kentucky, 40506, United States","(38.0266291, -84.5047222)",Kentucky
+University of Toledo,"The University of Toledo, 2801, Univeristy Hills Sidepath, University Hills, Toledo, Lucas County, Ohio, 43606, United States","(41.6582432, -83.6147873)",Ohio
+Kansas State University,"Kansas State University, Old Claflin Road, Manhattan, Riley County, Kansas, 66506, United States","(39.20883, -96.5884512)",Kansas
+United States Naval Academy,"United States Naval Academy, Chancery Lane, Annapolis, Anne Arundel County, Maryland, 21411, United States","(38.9819343, -76.4821709)",Maryland
+United States Military Academy,"United States Military Academy, Storm King Highway, Town of Highlands, Orange County, New York, 10996, United States","(41.3926455, -73.9599242)",New York
+United States Air Force Academy,"United States Air Force Academy, Colorado Springs, El Paso County, Colorado, United States","(38.9912381, -104.8588346)",Colorado
+United States Coast Guard Academy,"Coast Guard Academy, Ring Road, Town of Goshen, Orange County, New York, 10924, United States","(41.3822475, -74.3129464)",New York
+Howard University,"Howard University, 2400, 6th Street Northwest, Howard University, Ward 1, Washington, District of Columbia, 20059, United States","(38.9218972, -77.0195931)",District of Columbia
+Florida State University,"Florida State University, 600, West College Avenue, College Town, Tallahassee, Leon County, Florida, 32306, United States","(30.442216, -84.297453)",Florida
+Hillsdale College,"Hillsdale College, Barber Drive, Hillsdale, Hillsdale County, Michigan, 49242, United States","(41.9318835, -84.6302306)",Michigan
+University of Central Florida,"University of Central Florida, 4000, Central Florida Boulevard, Orlando, Orange County, Florida, 32816, United States","(28.5989975, -81.197125)",Florida
+University of Florida,"University of Florida, Fletcher Drive, Gainesville, Alachua County, Florida, 32611, United States","(29.6411884, -82.3562296)",Florida
+University of South Florida,"University of South Florida, 4202, East Fowler Avenue, Tampa, Hillsborough County, Florida, 33620, United States","(28.0599999, -82.4138362)",Florida
+Gallaudet University,"Gallaudet University, Mount Olivet Road Northeast, Ivy City, Ward 5, Washington, District of Columbia, 20002, United States","(38.9083288, -76.9916857)",District of Columbia
+Florida International,"Florida International University, 11200, Southwest 8th Street, Miami, Miami-Dade County, Florida, 33199, United States","(25.7553898, -80.3762833)",Florida
+Morehouse College,"Morehouse College, Joseph E. Lowery Boulevard, Collegetown, Atlanta, Fulton County, Georgia, 30310, United States","(33.747374, -84.4160951)",Georgia
+University of Alabama,"University of Alabama, Julia Tutwiler Drive, Buena Vista, Tuscaloosa, Tuscaloosa County, Alabama, 35487, United States","(33.2120822, -87.5396735)",Alabama
+Milwaukee School of Engineering,"Milwaukee School of Engineering, North Milwaukee Street, Juneautown, Downtown, Milwaukee, Milwaukee County, Wisconsin, 53201, United States","(43.045766, -87.9079361)",Wisconsin
+Florida Institute of Technology,"Florida Institute of Technology, East University Boulevard, Melbourne, Brevard County, Florida, 32901, United States","(28.064271, -80.623004)",Florida
+"Louisiana State University, Baton Rouge","Louisiana State University, Illinois Street, Nicholson Estates, Baton Rouge, East Baton Rouge Parish, Louisiana, 70803, United States","(30.4062005, -91.1854129)",Louisiana
+The Citadel,"The Citadel, 171, Moultrie Street, Hampton Park Terrace, Charleston, Charleston County, South Carolina, 29409, United States","(32.7963982, -79.9611833)",South Carolina
+New College of Florida,"New College of Florida, Tamiami Trail, Sarasota County, Florida, 34270, United States","(27.3859013, -82.5602038)",Florida
+Thomas Aquinas College,"Thomas Aquinas College, East Fork Trail, Sulphur Springs, Ventura County, California, United States","(34.4300932, -119.0868049)",California
+University of Texas Rio Grande Valley,"University of Texas Rio Grande Valley, 1201, West University Drive, Wood Colonia, Edinburg, Hidalgo County, Texas, 78541, United States","(26.3071534, -98.1728187)",Texas
+University of South Dakota,"University of South Dakota, 414, East Clark Street, University Historic District, Vermillion, Vermillion Township, Clay County, South Dakota, 57069, United States","(42.7913704, -96.9254235)",South Dakota
+University of Mississippi,"University of Mississippi, Washington Avenue Extension, Oxford, Lafayette County, Mississippi, 38677, United States","(34.3646125, -89.5396349)",Mississippi
+University of Wyoming,"University of Wyoming, 1000, East University Avenue, Downtown Laramie, Laramie, Albany County, Wyoming, 82071, United States","(41.314986, -105.5643222)",Wyoming
+University of Texas El Paso,"The University of Texas at El Paso, East Robinson Avenue, El Paso, El Paso County, Texas, 79902, United States","(31.7757047, -106.5062875)",Texas

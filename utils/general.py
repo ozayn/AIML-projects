@@ -8,10 +8,13 @@ def run_command(command=""):
     os.system(command)
 
 def create_requirements_with_versions(req_name_orig="requirements0.txt", 
-                                      req_name="requirements.txt", quiet=True):
+                                      req_name="requirements.txt", quiet=True, 
+                                      upgrade=False):
     install_command = f"pip install -r {req_name_orig}"
     if quiet:
         install_command+= " -q"
+    if upgrade:
+        install_command+= " --upgrade"
     run_command(install_command)
     
     # Load the original package list (no versions)

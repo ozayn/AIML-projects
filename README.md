@@ -1,6 +1,6 @@
 # AIML Projects
 
-This repository contains a collection of AI/ML projects completed as part of the Great Learning AIML program.  
+This repository contains a collection of AI/ML projects completed as part of the Great Learning AIML program and General Assembly.
 Each project focuses on a specific domain or technique—ranging from EDA and predictive modeling to computer vision and NLP—implemented using Python and industry-standard libraries.
 
 ---
@@ -18,7 +18,7 @@ Each project folder includes:
 
 ## 🔍 Projects
 
-### **1. FoodHub**
+### **1. FoodHub (EDA)**
 Performed EDA using NumPy, Pandas, and Seaborn to uncover demand patterns in cuisines and restaurants, and provided business recommendations.
 
 ### **2. Personal Loan Campaign (ML)**
@@ -35,6 +35,8 @@ Built an image classifier to distinguish plant seedlings and weeds using TensorF
 
 ### **6. Stock Market News Sentiment Analysis and Summarization (NLP)**
 Built an AI-driven system to extract and summarize market sentiment from news articles using LLMs, Transformers, Prompt Engineering, and text preprocessing.
+
+### **7. Standardized Test Analysis (EDA)
 
 ---
 

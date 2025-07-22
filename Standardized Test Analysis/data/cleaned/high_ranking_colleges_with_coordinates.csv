@@ -1,0 +1,99 @@
+Rank,school,state,number_of_applicants,accept_rate,sat_min,sat_median,act_min,act_median,test_optional?,coordinates,sat_mandatory,act_mandatory
+1,Harvard College,Massachusetts,42749,0.047,1460.0,1520,33.0,34.0,True,,False,False
+2,Stanford University,California,47452,0.043,1440.0,1505,32.0,33.5,True,"(37.4313138, -122.1693654)",False,False
+3,Massachusetts Institute of Technology (MIT),Massachusetts,21706,0.067,1500.0,1535,34.0,35.0,True,"(42.3582529, -71.0966272)",False,False
+4,University of California Berkeley (UCB),California,89621,0.148,1300.0,1415,28.0,31.0,True,"(37.8754996, -122.2390685)",False,False
+5,"University of California, Los Angeles (UCLA)",California,111322,0.123,1290.0,1400,27.0,30.5,True,"(34.0708777, -118.4468503)",False,False
+6,Yale University,Connecticut,36844,0.061,1460.0,1515,33.0,34.0,True,"(41.2571305, -72.9896696)",True,False
+7,Columbia University,New York,40203,0.055,1450.0,1505,33.0,34.0,True,"(40.8077558, -73.9616141)",False,False
+8,Princeton University,New Jersey,35370,0.055,1440.0,1505,32.0,33.5,True,"(40.3386752, -74.6583655)",False,False
+9,New York University (NYU),New York,79462,0.162,1370.0,1440,30.0,32.0,True,"(40.7292053, -73.9950148)",False,False
+10,University of Pennsylvania,Pennsylvania,44961,0.077,1450.0,1505,33.0,34.0,True,"(39.9503945, -75.1946713)",False,False
+11,University of Chicago,Illinois,32283,0.073,1490.0,1530,33.0,34.0,True,"(41.7913968, -87.6008439)",True,False
+12,Cornell University,New York,49114,0.109,1400.0,1480,32.0,33.5,True,"(42.4529076, -76.4800842)",False,False
+13,Duke University,North Carolina,35767,0.089,1450.0,1510,33.0,34.0,True,"(36.0001557, -78.9442297)",False,False
+14,University of Southern California,California,64352,0.13,1350.0,1440,30.0,32.0,True,"(34.0218689, -118.2858579)",False,False
+14,Johns Hopkins University,Maryland,29129,0.106,1470.0,1515,33.0,34.0,True,"(39.3302022, -76.6218536)",False,False
+16,Northwestern University,Illinois,40585,0.091,1440.0,1495,33.0,34.0,True,"(42.0557157, -87.6752945)",True,False
+17,Carnegie Mellon University,Pennsylvania,27634,0.154,1460.0,1510,33.0,34.0,True,"(40.4441897, -79.9427192)",False,False
+18,"University of Michigan, Ann Arbor",Michigan,64972,0.2289999999999999,1340.0,1435,31.0,32.5,True,"(42.2942142, -83.7100389)",True,False
+19,Brown University,Rhode Island,38674,0.071,1440.0,1505,33.0,34.0,True,"(41.8186395, -71.4088009)",True,False
+20,Boston University,Massachusetts,64481,0.221,1330.0,1415,30.0,31.5,True,"(42.3504215, -71.1032247)",False,False
+21,California Institute of Technology (Caltech),California,8367,0.064,1530.0,1545,35.0,35.5,True,"(34.1370138, -118.1252883)",False,False
+22,Emory University,Georgia,27559,0.185,1350.0,1435,31.0,32.5,True,"(33.8004546, -84.3172378)",False,False
+23,Rice University,Texas,20923,0.111,1450.0,1505,33.0,34.0,True,"(29.7167915, -95.4047811)",False,False
+24,"University of Washington, Seattle",Washington,45579,0.518,1240.0,1340,27.0,30.0,True,"(47.6554303, -122.3001692)",False,False
+25,Washington University in St. Louis,Missouri,31320,0.15,1470.0,1520,32.0,33.5,True,"(38.6472402, -90.3084017)",False,False
+26,Georgetown University,Washington D.C.,22872,0.145,1370.0,1450,31.0,32.5,True,"(38.9089393, -77.0745796)",False,False
+27,"University of California, San Diego (UCSD)",California,97901,0.302,1250.0,1360,26.0,29.5,True,"(32.8785324, -117.2265043)",False,False
+28,Vanderbilt University,Tennessee,37310,0.091,1460.0,1510,33.0,34.0,True,"(36.1438011, -86.8028189)",False,True
+29,University of Texas at Austin,Texas,53525,0.318,1240.0,1355,27.0,30.0,True,"(30.2851494, -97.7339352)",False,False
+30,University of Illinois at Urbana-Champaign,Illinois,43509,0.59,1220.0,1350,27.0,30.0,True,"(40.0906292, -88.176418)",True,False
+30,University of Rochester,New York,20216,0.295,1300.0,1400,29.0,31.0,True,"(43.129864, -77.628784)",False,False
+32,Dartmouth College,New Hampshire,23650,0.079,1440.0,1500,32.0,33.5,True,"(43.7046756, -72.2942089)",True,False
+32,"University of North Carolina, Chapel Hill",North Carolina,42466,0.226,1300.0,1395,27.0,30.0,True,"(35.9050353, -79.0477533)",False,False
+34,"University of California, Davis (UCD)",California,76647,0.412,1150.0,1280,25.0,28.0,True,"(38.5337904, -121.7907544)",False,False
+35,University of Florida,Florida,38905,0.3879999999999999,1280.0,1360,27.0,29.5,False,"(29.6411884, -82.3562296)",False,False
+36,"University of Illinois, Chicago (UIC)",Illinois,22696,0.727,1030.0,1145,21.0,24.5,True,"(41.8361641, -87.6264723)",True,False
+36,Tufts University,Massachusetts,22766,0.15,1390.0,1465,32.0,33.0,True,"(42.4064913, -71.1180073)",False,False
+38,Georgia Institute of Technology (Georgia Tech),Georgia,36856,0.206,1300.0,1405,29.0,31.5,True,"(33.7760948, -84.3988077)",False,False
+39,Stony Brook University SUNY,New York,37079,0.441,1230.0,1335,26.0,29.0,True,"(40.9090809, -73.1205518)",False,False
+40,University of Virginia,Virginia,40839,0.239,1340.0,1420,30.0,32.0,True,"(38.0410576, -78.5055084)",False,False
+41,Case Western Reserve University,Ohio,26642,0.293,1350.0,1435,30.0,32.0,True,"(41.5013869, -81.6007022)",False,True
+42,"Rutgers - The State University of New Jersey, New Brunswick",New Jersey,41348,0.601,1190.0,1300,25.0,28.0,True,,False,False
+43,"University of California, Santa Barbara (UCSB)",California,93457,0.296,1260.0,1360,25.0,29.0,True,"(34.4146025, -119.84581)",False,False
+44,"Pennsylvania State University, University Park",Pennsylvania,71903,0.491,1160.0,1265,25.0,27.5,True,"(40.7976671, -77.8621002)",False,False
+45,George Washington University,Washington D.C.,26968,0.409,1280.0,1375,29.0,31.0,True,"(38.8998938, -77.0474483)",False,False
+45,"University of California, Irvine (UCI)",California,95568,0.265,1180.0,1310,,,True,"(33.6429469, -117.8401606)",False,False
+47,University of Notre Dame,Indiana,22200,0.158,1400.0,1475,32.0,33.5,True,"(41.7045677, -86.2382203)",False,False
+48,University of Miami,Florida,38919,0.271,1280.0,1350,29.0,30.5,True,"(25.7172724, -80.2787069)",False,False
+49,Northeastern University,Massachusetts,62263,0.181,1390.0,1465,32.0,33.5,True,"(42.3351052, -71.0892579)",False,False
+50,University at Buffalo SUNY,New York,29900,0.611,1160.0,1250,24.0,26.5,True,"(43.0019863, -78.7859649)",False,False
+50,"Ohio State University, Columbus",Ohio,47703,0.537,1250.0,1355,28.0,30.0,True,"(40.0056802, -83.0286612)",False,True
+52,"University of Maryland, College Park",Maryland,32987,0.441,1280.0,1380,29.0,31.0,True,"(38.9784587, -76.9282678)",False,False
+53,Purdue University,Indiana,54912,0.598,1190.0,1315,25.0,28.5,True,"(40.430028, -86.9264211)",False,False
+54,"University of Minnesota, Twin Cities",Minnesota,40673,0.5670000000000001,1260.0,1370,26.0,28.5,True,"(44.9863392, -93.1794558)",False,False
+55,Michigan State University,Michigan,44322,0.711,1100.0,1210,23.0,26.0,True,"(42.7023794, -84.4803869)",True,False
+55,Boston College,Massachusetts,35552,0.272,1370.0,1430,31.0,32.5,True,"(42.3354481, -71.1682665)",False,False
+57,"University of Massachusetts, Amherst",Massachusetts,42157,0.638,1190.0,1290,26.0,29.0,True,"(42.3875741, -72.5299209)",False,False
+58,"University of Wisconsin, Madison",Wisconsin,43921,0.53,1330.0,1390,27.0,29.5,True,"(43.0802745, -89.4309587)",False,False
+59,Syracuse University,New York,34981,0.499,1180.0,1275,25.0,27.5,True,"(43.0171129, -76.1185536)",False,False
+60,Lehigh University,Pennsylvania,15649,0.321,1280.0,1365,29.0,31.0,True,"(40.6068028, -75.3782488)",False,False
+60,University of Pittsburgh,Pennsylvania,32091,0.5670000000000001,1260.0,1350,28.0,30.5,True,"(40.444153, -79.962461)",False,False
+62,Brandeis University,Massachusetts,11798,0.311,1280.0,1390,29.0,31.0,True,"(42.3665095, -71.2580196)",False,False
+62,"Arizona State University, Tempe",Arizona,26869,0.848,1130.0,1245,22.0,25.5,True,"(33.4213174, -111.9331631)",False,False
+63,Temple University,Pennsylvania,35599,0.6,1120.0,1220,24.0,27.0,True,"(39.981188, -75.1562828)",False,False
+64,Texas A&M University,Texas,42899,0.575,1160.0,1275,26.0,28.5,True,"(30.6108618, -96.3520606)",False,False
+64,University of Arizona,Arizona,40854,0.846,1120.0,1235,21.0,25.0,True,"(32.2356928, -110.951744)",False,False
+66,University of Houston,Texas,25393,0.65,1140.0,1225,22.0,24.5,True,"(29.7207902, -95.3440627)",False,False
+67,Drexel University,Pennsylvania,31824,0.747,1190.0,1290,25.0,28.0,True,"(39.9569305, -75.1899265)",False,False
+67,"North Carolina State University, Raleigh",North Carolina,30995,0.449,1250.0,1320,27.0,29.0,True,"(35.7718497, -78.674087)",False,False
+67,Rensselaer Polytechnic Institute,New York,20402,0.43,1330.0,1415,29.0,31.0,True,"(42.7298969, -73.6796678)",False,False
+67,"Binghamton University, SUNY",New York,38755,0.3979999999999999,1310.0,1375,28.0,30.0,True,"(42.0877998, -75.9706607)",False,False
+71,University of Connecticut,Connecticut,34886,0.488,1210.0,1315,26.0,28.5,True,"(41.8111114, -72.2483889)",True,False
+72,University of Georgia,Georgia,26027,0.486,1240.0,1325,27.0,29.5,True,"(33.9404278, -83.373049)",False,False
+73,Virginia Polytechnic Institute (Virginia Tech),Virginia,31936,0.648,1180.0,1285,25.0,28.0,True,"(37.2219268, -80.4272818)",False,False
+74,University of New Mexico,New Mexico,12281,0.486,1040.0,1155,19.0,22.0,True,"(35.0866327, -106.6202094)",False,False
+75,"Indiana University, Bloomington",Indiana,44169,0.769,1150.0,1255,24.0,27.5,True,"(39.1802358, -86.5093526)",False,False
+76,Tulane University,Louisiana,42185,0.129,1360.0,1440,31.0,32.0,True,"(29.9412195, -90.1201009)",False,True
+78,Florida State University,Florida,58936,0.36,1200.0,1270,26.0,28.0,False,"(30.442216, -84.297453)",False,False
+78,University of South Florida,Florida,36986,0.477,1170.0,1250,25.0,27.0,False,"(28.0599999, -82.4138362)",False,False
+80,"University of California, Riverside (UCR)",California,49788,0.5670000000000001,1130.0,1235,24.0,27.0,True,"(33.9642576, -117.3398097)",False,False
+80,Illinois Institute of Technology,Illinois,5049,0.602,1190.0,1295,26.0,29.0,True,"(41.8361641, -87.6264723)",True,False
+80,"University of California, Santa Cruz (UCSC)",California,55906,0.515,1200.0,1280,24.0,27.0,True,"(36.9823252, -122.0600187)",False,False
+83,University of Texas Dallas,Texas,14327,0.7859999999999999,1240.0,1350,26.0,29.5,True,"(32.9875855, -96.749784)",False,False
+83,Howard University,Washington D.C.,20946,0.316,1140.0,1212,22.0,24.5,False,"(38.9218972, -77.0195931)",False,False
+85,Wake Forest University,North Carolina,12559,0.296,1320.0,1405,30.0,31.5,True,"(36.133893, -80.2755578)",False,False
+85,Santa Clara University,California,16300,0.488,1280.0,1360,28.0,30.0,True,"(37.3486243, -121.936544)",False,False
+87,University of Utah,Utah,24404,0.621,1142.5,1261,22.0,25.5,True,"(40.7628137, -111.8368719)",False,False
+89,George Mason University,Virginia,19554,0.867,1110.0,1215,24.0,27.0,True,"(38.8313333, -77.3079884)",False,False
+90,New Jersey Institute of Technology (NJIT),New Jersey,8123,0.637,1190.0,1285,25.0,27.5,True,"(40.7421254, -74.1790316)",False,False
+93,University at Albany SUNY,New York,27529,0.5429999999999999,1090.0,1170,22.0,25.0,True,"(42.6840271, -73.8258773)",False,False
+94,Oregon State University,Oregon,15786,0.836,1080.0,1200,21.0,24.5,True,"(44.5630559, -123.2839234)",False,False
+95,University of Delaware,Delaware,27691,0.624,1170.0,1260,25.0,27.5,True,"(39.6803338, -75.7530749)",True,False
+96,University of the Pacific,California,13096,0.6559999999999999,1130.0,1245,23.0,27.0,True,"(37.9804237, -121.3128472)",False,False
+97,"Rutgers - The State University of New Jersey, Newark",New Jersey,13259,0.627,1020.0,1105,19.0,21.5,True,,False,False
+97,University of Hawaii at Manoa,Hawaii,16244,0.584,1070.0,1170,21.0,23.5,True,"(21.2982795, -157.8186932)",False,True
+99,University of Iowa,Iowa,25928,0.826,1130.0,1235,22.0,25.5,True,"(41.6311024, -91.540752)",False,False
+99,San Diego State University,California,69842,0.34,1110.0,1215,22.0,25.5,True,"(32.7761529, -117.0733037)",False,False
+99,"University of Oklahoma, Norman",Oklahoma,15673,0.804,1130.0,1220,23.0,26.0,True,"(35.1959878, -97.4457083)",False,True
