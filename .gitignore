@@ -59,6 +59,11 @@ cover/
 **/*.npy
 **/*.keras
 
+# other
+
+**/*.word2vec
+
+
 # Translations
 *.mo
 *.pot
